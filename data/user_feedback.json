@@ -1,0 +1,317 @@
+[
+  {
+    "id": "FB-001",
+    "timestamp": "2026-04-03T10:15:00Z",
+    "source": "in_app",
+    "sentiment": "positive",
+    "text": "The new workflow builder is amazing! I set up my entire onboarding sequence in 10 minutes. Drag-and-drop is so intuitive.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  },
+  {
+    "id": "FB-002",
+    "timestamp": "2026-04-03T11:32:00Z",
+    "source": "in_app",
+    "sentiment": "negative",
+    "text": "App crashed when I tried to save my workflow with 12 nodes. Lost 15 minutes of work. Very frustrating.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  },
+  {
+    "id": "FB-003",
+    "timestamp": "2026-04-03T12:45:00Z",
+    "source": "support_ticket",
+    "sentiment": "negative",
+    "text": "Workflow builder loads extremely slowly. Takes 8-10 seconds to open the editor. My internet is fine.",
+    "user_segment": "paid_business",
+    "feature_related": true
+  },
+  {
+    "id": "FB-004",
+    "timestamp": "2026-04-03T14:20:00Z",
+    "source": "in_app",
+    "sentiment": "positive",
+    "text": "Finally! A visual workflow builder. This is what I've been waiting for. Great job team!",
+    "user_segment": "free",
+    "feature_related": true
+  },
+  {
+    "id": "FB-005",
+    "timestamp": "2026-04-03T15:10:00Z",
+    "source": "in_app",
+    "sentiment": "negative",
+    "text": "Saved my workflow, came back an hour later and all my changes were gone. This is a serious bug.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  },
+  {
+    "id": "FB-006",
+    "timestamp": "2026-04-03T16:00:00Z",
+    "source": "social_media",
+    "sentiment": "positive",
+    "text": "Just tried @PurpleMerit's new workflow builder. The UI is beautiful and the templates are really helpful.",
+    "user_segment": "free",
+    "feature_related": true
+  },
+  {
+    "id": "FB-007",
+    "timestamp": "2026-04-03T17:30:00Z",
+    "source": "in_app",
+    "sentiment": "neutral",
+    "text": "Saw the new workflow feature announcement. Haven't had time to try it yet but looks interesting.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  },
+  {
+    "id": "FB-008",
+    "timestamp": "2026-04-04T08:45:00Z",
+    "source": "support_ticket",
+    "sentiment": "negative",
+    "text": "Crash while saving a complex workflow. Happened 3 times in a row. I'm using Chrome on Mac.",
+    "user_segment": "paid_business",
+    "feature_related": true
+  },
+  {
+    "id": "FB-009",
+    "timestamp": "2026-04-04T09:20:00Z",
+    "source": "in_app",
+    "sentiment": "negative",
+    "text": "The workflow builder is way too slow. Loading the canvas takes forever and dragging nodes is laggy.",
+    "user_segment": "free",
+    "feature_related": true
+  },
+  {
+    "id": "FB-010",
+    "timestamp": "2026-04-04T10:00:00Z",
+    "source": "in_app",
+    "sentiment": "positive",
+    "text": "Love how I can connect different apps in the workflow. Saved me from writing custom integrations.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  },
+  {
+    "id": "FB-011",
+    "timestamp": "2026-04-04T10:45:00Z",
+    "source": "in_app",
+    "sentiment": "negative",
+    "text": "Got a weird error message: 'Unexpected token in workflow definition'. No idea what that means or how to fix it.",
+    "user_segment": "free",
+    "feature_related": true
+  },
+  {
+    "id": "FB-012",
+    "timestamp": "2026-04-04T11:30:00Z",
+    "source": "support_ticket",
+    "sentiment": "negative",
+    "text": "Workflow crashed again and this time my entire dashboard is broken. Can't access any of my projects now.",
+    "user_segment": "paid_business",
+    "feature_related": true
+  },
+  {
+    "id": "FB-013",
+    "timestamp": "2026-04-04T12:15:00Z",
+    "source": "in_app",
+    "sentiment": "neutral",
+    "text": "The workflow builder seems okay. Nothing revolutionary but gets the job done for simple automations.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  },
+  {
+    "id": "FB-014",
+    "timestamp": "2026-04-04T13:00:00Z",
+    "source": "in_app",
+    "sentiment": "negative",
+    "text": "Page keeps freezing when I try to add more than 8 nodes. Have to refresh and start over every time.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  },
+  {
+    "id": "FB-015",
+    "timestamp": "2026-04-04T14:30:00Z",
+    "source": "in_app",
+    "sentiment": "positive",
+    "text": "The conditional branching in workflows is exactly what I needed. Very powerful feature.",
+    "user_segment": "paid_business",
+    "feature_related": true
+  },
+  {
+    "id": "FB-016",
+    "timestamp": "2026-04-04T15:45:00Z",
+    "source": "in_app",
+    "sentiment": "neutral",
+    "text": "Downloaded the app update but haven't explored the new features yet. Will check it out this weekend.",
+    "user_segment": "free",
+    "feature_related": false
+  },
+  {
+    "id": "FB-017",
+    "timestamp": "2026-04-04T16:20:00Z",
+    "source": "support_ticket",
+    "sentiment": "negative",
+    "text": "Slow loading times since the update. Everything takes 3-4x longer than before. Please fix ASAP.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  },
+  {
+    "id": "FB-018",
+    "timestamp": "2026-04-05T08:00:00Z",
+    "source": "in_app",
+    "sentiment": "positive",
+    "text": "Great improvement over the old manual setup. Workflow builder makes complex automations accessible.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  },
+  {
+    "id": "FB-019",
+    "timestamp": "2026-04-05T09:15:00Z",
+    "source": "in_app",
+    "sentiment": "negative",
+    "text": "My saved workflow disappeared overnight. I spent 2 hours building it yesterday. This is unacceptable.",
+    "user_segment": "paid_business",
+    "feature_related": true
+  },
+  {
+    "id": "FB-020",
+    "timestamp": "2026-04-05T10:30:00Z",
+    "source": "in_app",
+    "sentiment": "negative",
+    "text": "Error messages in the workflow builder are terrible. 'Error code WF-4012' tells me nothing useful.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  },
+  {
+    "id": "FB-021",
+    "timestamp": "2026-04-05T11:00:00Z",
+    "source": "social_media",
+    "sentiment": "positive",
+    "text": "Impressed with PurpleMerit's workflow builder. As a power user, I can already see it replacing 2 other tools for me.",
+    "user_segment": "paid_business",
+    "feature_related": true
+  },
+  {
+    "id": "FB-022",
+    "timestamp": "2026-04-05T11:45:00Z",
+    "source": "in_app",
+    "sentiment": "neutral",
+    "text": "Feature looks promising but I'll wait until it's more stable before using it for production workflows.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  },
+  {
+    "id": "FB-023",
+    "timestamp": "2026-04-05T12:30:00Z",
+    "source": "support_ticket",
+    "sentiment": "negative",
+    "text": "App crashed 5 times today while using the workflow builder. I'm on a deadline and this is blocking my work.",
+    "user_segment": "paid_business",
+    "feature_related": true
+  },
+  {
+    "id": "FB-024",
+    "timestamp": "2026-04-05T13:15:00Z",
+    "source": "in_app",
+    "sentiment": "positive",
+    "text": "The workflow templates are really well designed. I customized the 'Lead Nurture' template in under 5 minutes.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  },
+  {
+    "id": "FB-025",
+    "timestamp": "2026-04-05T14:00:00Z",
+    "source": "in_app",
+    "sentiment": "negative",
+    "text": "Slow, crashy, and lost my work twice. Rolling back to old version if this isn't fixed by Monday.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  },
+  {
+    "id": "FB-026",
+    "timestamp": "2026-04-05T15:00:00Z",
+    "source": "in_app",
+    "sentiment": "neutral",
+    "text": "I see there's a new workflow feature. Is there documentation or a tutorial video available?",
+    "user_segment": "free",
+    "feature_related": true
+  },
+  {
+    "id": "FB-027",
+    "timestamp": "2026-04-05T16:30:00Z",
+    "source": "in_app",
+    "sentiment": "positive",
+    "text": "Been waiting for this. The workflow builder's API integration support is top notch.",
+    "user_segment": "paid_business",
+    "feature_related": true
+  },
+  {
+    "id": "FB-028",
+    "timestamp": "2026-04-06T08:30:00Z",
+    "source": "support_ticket",
+    "sentiment": "negative",
+    "text": "Loading times are still terrible after the update. Our team of 15 is experiencing productivity loss.",
+    "user_segment": "paid_enterprise",
+    "feature_related": true
+  },
+  {
+    "id": "FB-029",
+    "timestamp": "2026-04-06T09:00:00Z",
+    "source": "in_app",
+    "sentiment": "neutral",
+    "text": "The new workflow builder UI is clean but the old way of setting up automations was simpler for basic tasks.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  },
+  {
+    "id": "FB-030",
+    "timestamp": "2026-04-06T09:45:00Z",
+    "source": "in_app",
+    "sentiment": "negative",
+    "text": "Confusing error when trying to connect Slack node to email node: 'Incompatible types'. What types?",
+    "user_segment": "free",
+    "feature_related": true
+  },
+  {
+    "id": "FB-031",
+    "timestamp": "2026-04-06T10:20:00Z",
+    "source": "in_app",
+    "sentiment": "positive",
+    "text": "This workflow builder has huge potential. Keep iterating on it!",
+    "user_segment": "free",
+    "feature_related": true
+  },
+  {
+    "id": "FB-032",
+    "timestamp": "2026-04-06T11:00:00Z",
+    "source": "in_app",
+    "sentiment": "neutral",
+    "text": "No strong feelings either way. It works for what I need but nothing I couldn't do before manually.",
+    "user_segment": "free",
+    "feature_related": true
+  },
+  {
+    "id": "FB-033",
+    "timestamp": "2026-04-06T12:00:00Z",
+    "source": "support_ticket",
+    "sentiment": "negative",
+    "text": "I was charged twice for my subscription renewal today. Please refund the duplicate charge immediately.",
+    "user_segment": "paid_pro",
+    "feature_related": false
+  },
+  {
+    "id": "FB-034",
+    "timestamp": "2026-04-06T13:30:00Z",
+    "source": "in_app",
+    "sentiment": "negative",
+    "text": "URGENT: I think the workflow builder deleted some of my existing project data. Several old projects show 'corrupted' status now.",
+    "user_segment": "paid_business",
+    "feature_related": true
+  },
+  {
+    "id": "FB-035",
+    "timestamp": "2026-04-06T14:00:00Z",
+    "source": "in_app",
+    "sentiment": "neutral",
+    "text": "When will the workflow builder support custom JavaScript nodes? That would make it actually useful for my use case.",
+    "user_segment": "paid_pro",
+    "feature_related": true
+  }
+]
